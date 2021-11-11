@@ -1,20 +1,23 @@
-[	
-	{
-    	  "id": 0    	  
-	  "name": "Excalibur",
-     	  "description": "https://cdn.pixabay.com/photo/2018/06/01/08/56/excalibur-3445952_960_720.jpg",
-    	  "image": ""
-	},
-	{
-    	  "id": 1    	  
-	  "name": "Muramasa",
-    	  "description": "Espasa famosa realitzada per Muramasa Sengo, degut a la inestabilidad del seu creador es creia que les seves espases abosirvien una aura tenebrosa i la gent que l'empunyava es tornava violenta",
-    	  "image": "https://freesvg.org/img/028.png"
-	},
-	{
-    	  "id": 2
-	  "name": "Tizona",
-    	  "description": "Espasa del Cid el Campeador, feta d'acer de damasc.",
-    	  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Tizona_espada_cid.jpg"
-	}
-]
+{	
+	"NFT": [
+		{
+		  "id": 0,    	  
+		  "name": "Excalibur",
+		  "description": "Espasa del rei Artur",
+		  "image": "https://cdn.pixabay.com/photo/2018/06/01/08/56/excalibur-3445952_960_720.jpg"
+		},
+		{
+		  "id": 1,    	  
+		  "name": "Muramasa",
+		  "description": "Espasa famosa realitzada per Muramasa Sengo, degut a la inestabilidad del seu creador es creia que les seves espases abosirvien una aura tenebrosa i la gent que l'empunyava es tornava violenta",
+		  "image": "https://freesvg.org/img/028.png"
+		},
+		{
+		  "id": 2,
+		  "name": "Tizona",
+		  "description": "Espasa del Cid el Campeador, feta d'acer de damasc.",
+		  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Tizona_espada_cid.jpg"
+		}
+
+	]
+}
